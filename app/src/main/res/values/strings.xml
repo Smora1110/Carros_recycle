@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Carros_recycle</string>
+    <string name="boton1">NUEVA SERIE</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="url_portada">Url portada</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="errorvalidacion">ERROR VALIDACIÓN</string>
+    <string name="Btlog">INGRESAR</string>
+    <string name="btlog">REGISTRARSE</string>
+    <string name="log_user">Email</string>
+    <string name="log_pass">Contraseña</string>
+    <string name="texterror">ERROR</string>
+    <string name="cerrar">Cerrar Sesion</string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "330038145012",
+    "firebase_url": "https://miverga-default-rtdb.firebaseio.com",
+    "project_id": "miverga",
+    "storage_bucket": "miverga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330038145012:android:97820ccc490292c3a153a1",
+        "android_client_info": {
+          "package_name": "com.example.carros_recycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330038145012-hf1av5pqbjef0f3o975i0pbjgudtmqct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3oT390bKULcmtoYqPbvrMMwJ6Glsczls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330038145012-hf1av5pqbjef0f3o975i0pbjgudtmqct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330038145012:android:934a610421399cf5a153a1",
+        "android_client_info": {
+          "package_name": "com.example.login_de_puta_mierda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330038145012-hf1av5pqbjef0f3o975i0pbjgudtmqct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3oT390bKULcmtoYqPbvrMMwJ6Glsczls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330038145012-hf1av5pqbjef0f3o975i0pbjgudtmqct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
